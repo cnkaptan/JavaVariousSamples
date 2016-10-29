@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05a5fb8c-6aea-4e1d-b5cd-700389d49207" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassLoadingAndReflection/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Enums/PrimaryColor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Slot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/HashMapSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/Library.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Enum/EnumTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Enum/Planet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/GenericMethodSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/RegexSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/ThreadAndRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/ThreadLesson.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/ThreadLesson2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/ThreadLesson3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariousTopics.iml" afterPath="$PROJECT_DIR$/VariousTopics.iml" />
     </list>
     <ignored path="VariousTopics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -204,8 +211,8 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
+      <flattenPackages PackagesPane="false" />
+      <showMembers PackagesPane="true" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -220,8 +227,8 @@
       <pane id="ProjectPane">
         <subPane />
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -232,6 +239,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="VariousTopics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VariousTopics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VariousTopics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Collections.mooc_helsinki_fi.hash_map_sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -834,11 +855,12 @@
       <workItem from="1466418161902" duration="1079000" />
       <workItem from="1466769453881" duration="54000" />
       <workItem from="1477739217514" duration="24000" />
+      <workItem from="1477739329716" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27870000" />
+    <option name="totallyTimeSpent" value="27910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
