@@ -1,4 +1,4 @@
-package Enum;
+package Enums;
 
 /**
  * Created by cihankaptan on 13/10/16.

@@ -16,7 +16,7 @@ public class GenericMethodSample {
     }
 
 
-    public static <T> T getMiddle(T... a){
+    private static <T> T getMiddle(T... a){
         return a[a.length/2];
     }
 
@@ -35,4 +35,6 @@ public class GenericMethodSample {
 
         return new Pair<>(min,max);
     }
+
+
 }

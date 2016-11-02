@@ -30,7 +30,7 @@ public class Main {
         }
 
         // Obtain a Class object for primitive types with various
-// predefined constants
+        // predefined constants
         c = Void.TYPE; // The special "no-return-value" type
         System.out.println(c);
         c = Byte.TYPE; // Class object that represents a byte
@@ -71,4 +71,6 @@ public class Main {
 
         return Object.class;
     }
+
+
 }
