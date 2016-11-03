@@ -28,26 +28,21 @@ package Thread.book.Java_Threads_2nd_Edition.chapter_2;/*
  */
 
 
-import java.awt.*;
+public class TestRead extends Thread {
+	AsyncReadSocket asr;
+	public static void main(String args[]) {
+		AsyncReadSocket asr = new AsyncReadSocket("myhost", 6001);
+		asr.start();
+		new TestRead(asr).start();
+	}
 
-public class TimerThread extends Thread {
-	Component comp;	     // Component that need repainting
-	int timediff;	     // Time between repaints of the component
-	boolean shouldRun;   // Set to false to stop thread
-
-	public TimerThread(Component comp, int timediff) {
-		this.comp = comp;
-		this.timediff = timediff;
-		shouldRun = true;
-		setName("TimerThread(" + timediff + " milliseconds)");
+	public TestRead(AsyncReadSocket asr) {
+		super("ReaderThread");
+		this.asr = asr;
 	}
 
 	public void run() {
-		while (shouldRun) {
-			try {
-				comp.repaint();
-				sleep(timediff);
-			} catch (Exception e) {}
-		}
+		// do some other processing, and allow asr to read data
+		System.out.println("Data is " + asr.getResult());
 	}
 }
