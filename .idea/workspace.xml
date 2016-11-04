@@ -2,17 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05a5fb8c-6aea-4e1d-b5cd-700389d49207" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/CurrentThreadSample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateFirst.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateSecond.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateThird.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AsyncReadSocket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/IsciRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TestRead.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/lec04-thread-safety.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/AsyncReadSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/RunnerSmlAsyncRead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThreadSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterUserThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/CorrectLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/Line.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/MutableLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/MutablePoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTestTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeUserThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/SyncIncRace.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/SyncIncThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/TestRace.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/JoinSample.java" afterPath="$PROJECT_DIR$/src/Thread/JoinSample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TimerThread.java" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TimerThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariousTopics.iml" afterPath="$PROJECT_DIR$/VariousTopics.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java" />
     </list>
     <ignored path="VariousTopics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,11 +57,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreadEnumerateSample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java">
+      <file leaf-file-name="BusyFlag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AsyncReadSocket.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/AsyncReadSocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+              <folding>
+                <element signature="e#2284#2285#0" expanded="true" />
+                <element signature="e#2307#2308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmlAsyncRead.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+              <folding>
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunnerSmlAsyncRead.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/RunnerSmlAsyncRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -55,6 +109,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -70,21 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Thread/ExtendThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/Priority.java" />
-        <option value="$PROJECT_DIR$/src/Thread/TickTock.java" />
-        <option value="$PROJECT_DIR$/src/Deneme/Split.java" />
-        <option value="$PROJECT_DIR$/src/Thread/CountingThreads.java" />
-        <option value="$PROJECT_DIR$/src/Thread/JoinDemo.java" />
-        <option value="$PROJECT_DIR$/src/Thread/CounterTest.java" />
-        <option value="$PROJECT_DIR$/src/Thread/CheckingAccount.java" />
-        <option value="$PROJECT_DIR$/src/Generics/TypeSafety.java" />
-        <option value="$PROJECT_DIR$/src/Generics/Queue.java" />
-        <option value="$PROJECT_DIR$/src/Generics/UpperBoundGenerics.java" />
-        <option value="$PROJECT_DIR$/src/Thread/HelloThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/CreatingThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/KarisikSayma.java" />
         <option value="$PROJECT_DIR$/src/Thread/JoinThreads.java" />
         <option value="$PROJECT_DIR$/src/Thread/SleepSample.java" />
         <option value="$PROJECT_DIR$/src/Thread/Sync.java" />
@@ -107,8 +147,6 @@
         <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/OurApplet.java" />
         <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect1/IncRace.java" />
         <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect1/IncThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunnable.java" />
-        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/ThreadStateTester.java" />
         <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/PrintStateTester.java" />
         <option value="$PROJECT_DIR$/src/Thread/JoinSample.java" />
         <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/IsciRunnable.java" />
@@ -121,6 +159,23 @@
         <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AsyncReadSocket.java" />
         <option value="$PROJECT_DIR$/src/Thread/CurrentThreadSample.java" />
         <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunnable.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/ThreadStateTester.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunner.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounter.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/TestRaceTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTestTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/TestRace.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThreadSample.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/Account.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/RunnerSmlAsyncRead.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/AsyncReadSocket.java" />
       </list>
     </option>
   </component>
@@ -234,8 +289,94 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="KarisikSayma.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VariousTopics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaVariousSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="JoinSample.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VariousTopics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaVariousSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="university" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maryland" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Programming_Language_Technologies_and_Paradigms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lect4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VariousTopics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaVariousSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="university" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maryland" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Programming_Language_Technologies_and_Paradigms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -264,7 +405,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter_2" />
+              <option name="myItemId" value="chapter_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VariousTopics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaVariousSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_Threads_2nd_Edition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,23 +471,33 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="FullScreen" value="true" />
     <property name="last.edited.regexp" value="abc" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect4.thread_safety" />
+      <recent name="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2" />
+      <recent name="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3" />
+      <recent name="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4" />
       <recent name="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2" />
+      <recent name="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2" />
       <recent name="$PROJECT_DIR$/src/RegularExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadEnumerateSample">
-    <configuration default="false" name="AnimateSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RunnerSmlAsyncRead">
+    <configuration default="false" name="HelloWorldRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Thread.book.Java_Threads_2nd_Edition.chapter_2.*" />
+          <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread.book.Java_Threads_2nd_Edition.chapter_2.AnimateSecond" />
+      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.HelloWorldRunner" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -333,14 +510,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="JoinSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ThreadStateTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread.JoinSample" />
+      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.ThreadStateTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -353,22 +530,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="AnimateFirst" type="Applet" factoryName="Applet" temporary="true">
-      <option name="WIDTH" value="400" />
-      <option name="MAIN_CLASS_NAME" value="Thread.book.Java_Threads_2nd_Edition.chapter_2.AnimateFirst" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="VariousTopics" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CurrentThreadSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TerminateTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread.CurrentThreadSample" />
+      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.TerminateTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -381,14 +550,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ThreadEnumerateSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="IncThreadSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Thread.book.Java_Threads_2nd_Edition.chapter_2.*" />
+          <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread.book.Java_Threads_2nd_Edition.chapter_2.ThreadEnumerateSample" />
+      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect4.IncThreadSample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VariousTopics" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RunnerSmlAsyncRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Thread.book.Java_Threads_2nd_Edition.chapter_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Thread.book.Java_Threads_2nd_Edition.chapter_3.RunnerSmlAsyncRead" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -651,19 +840,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.AnimateSecond" />
-      <item index="1" class="java.lang.String" itemvalue="Application.JoinSample" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.AnimateFirst" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CurrentThreadSample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ThreadEnumerateSample" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorldRunner" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreadStateTester" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TerminateTester" />
+      <item index="3" class="java.lang.String" itemvalue="Application.IncThreadSample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RunnerSmlAsyncRead" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreadEnumerateSample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CurrentThreadSample" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.AnimateFirst" />
-        <item index="3" class="java.lang.String" itemvalue="Application.JoinSample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AnimateSecond" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RunnerSmlAsyncRead" />
+        <item index="1" class="java.lang.String" itemvalue="Application.IncThreadSample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldRunner" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TerminateTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreadStateTester" />
       </list>
     </recent_temporary>
   </component>
@@ -703,12 +892,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25180724" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25180724" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25822604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -723,7 +913,6 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -758,7 +947,27 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/RunnerSmlAsyncRead.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -767,151 +976,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadAndRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Generics/UpperBoundGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Generics/GenericMethodSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Enum/Day.java" />
-    <entry file="file://$PROJECT_DIR$/src/Enum/Planet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Enum/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/BasicSync.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <element signature="e#198#199#0" expanded="false" />
-            <element signature="e#230#231#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/SleepSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadLesson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="34" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3075">
-          <caret line="247" column="7" selection-start-line="247" selection-start-column="7" selection-end-line="247" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1830">
-          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="1193" column="37" selection-start-line="1193" selection-start-column="37" selection-end-line="1193" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="155" column="9" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadLesson2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/HashMapSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="93" selection-start-line="18" selection-start-column="93" selection-end-line="18" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-            <element signature="e#1095#1096#0" expanded="false" />
-            <element signature="e#1159#1160#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RegularExpressions.java" />
     <entry file="file://$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/hash_map_sample/Library.java" />
     <entry file="file://$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/hash_map_sample/Book.java" />
@@ -994,60 +1058,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#358#359#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#285#286#0" expanded="false" />
-            <element signature="e#341#342#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/SleepTerminateRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/ThreadStateTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/IsciRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1085,17 +1095,6 @@
         <state relative-caret-position="465">
           <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-928">
-          <caret line="443" column="11" selection-start-line="443" selection-start-column="11" selection-end-line="443" selection-end-column="11" />
-          <folding>
-            <element signature="e#14796#14797#0" expanded="false" />
-            <element signature="e#14860#14861#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1142,19 +1141,248 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/PrintStateTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="330">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/PrintStateTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#341#342#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#269#270#0" expanded="false" />
+            <element signature="e#358#359#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/ThreadStateTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="300" column="35" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/SleepTerminateRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/TestRaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/TestRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/chapter_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThreadSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/RunnerSmlAsyncRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/KarisikSayma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/BasicSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/AsyncReadSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#2284#2285#0" expanded="true" />
+            <element signature="e#2307#2308#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

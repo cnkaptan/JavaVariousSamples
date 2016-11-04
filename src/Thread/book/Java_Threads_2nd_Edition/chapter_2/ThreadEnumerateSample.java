@@ -20,7 +20,6 @@ public class ThreadEnumerateSample {
         },"Other Thread");
 
         thread.start();
-
         Thread ta[] = new Thread[Thread.activeCount()];
         int n = Thread.enumerate(ta);
         for (int i = 0; i < n; i++) {
