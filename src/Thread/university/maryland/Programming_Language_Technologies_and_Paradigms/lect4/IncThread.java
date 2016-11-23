@@ -7,17 +7,20 @@ public class IncThread implements Runnable {
 
     private static int shared = 0; // Shared variable
     private String name = ""; // Name of thread
-
+    static final Object lock = new Object (); // Lock must be static!
     IncThread(String name) {
         this.name = name;
     }
 
     public void run() {
-        int myShared = shared;
-        System.out.println(name + " read shared = " + myShared);
-        myShared++;
-        shared = myShared;
-        System.out.println(name + " assigned to shared: " + myShared);
+        synchronized (lock){
+            int myShared = shared;
+            System.out.println(name + " read shared = " + myShared);
+            myShared++;
+            shared = myShared;
+            System.out.println(name + " assigned to shared: " + myShared);
+        }
+
     }
 
 }
