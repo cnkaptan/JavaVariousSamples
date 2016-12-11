@@ -1,4 +1,4 @@
-package Thread.book.Java_Threads_2nd_Edition.chapter_2;/*
+package Thread.book.Java_Threads_2nd_Edition.chapter_3;/*
  *
  * Copyright (c) 1997-1999 Scott Oaks and Henry Wong. All Rights Reserved.
  *
@@ -28,26 +28,40 @@ package Thread.book.Java_Threads_2nd_Edition.chapter_2;/*
  */
 
 
-import java.awt.*;
+public class BusyFlag {
+	protected Thread busyflag = null;
+	protected int busycount = 0;
 
-public class TimerThread extends Thread {
-	Component comp;	     // Component that need repainting
-	int timediff;	     // Time between repaints of the component
-	boolean shouldRun;   // Set to false to stop thread
-
-	public TimerThread(Component comp, int timediff) {
-		this.comp = comp;
-		this.timediff = timediff;
-		shouldRun = true;
-		setName("TimerThread(" + timediff + " milliseconds)");
-	}
-
-	public void run() {
-		while (shouldRun) {
+	public void getBusyFlag() {
+		while (tryGetBusyFlag() == false) {
 			try {
-				comp.repaint();
-				sleep(timediff);
+				Thread.sleep(100);
 			} catch (Exception e) {}
 		}
+	}
+
+	public synchronized boolean tryGetBusyFlag() {
+		if (busyflag == null) {
+			busyflag = Thread.currentThread();
+			busycount = 1;
+			return true;
+		}
+		if (busyflag == Thread.currentThread()) {
+			busycount++;
+			return true;
+ 		}
+		return false;
+	}
+
+	public synchronized void freeBusyFlag () {
+		if (getBusyFlagOwner() == Thread.currentThread()) {
+			busycount--;
+			if (busycount == 0)
+				busyflag = null;
+		}
+	}
+
+	public synchronized Thread getBusyFlagOwner() {
+		return busyflag;
 	}
 }

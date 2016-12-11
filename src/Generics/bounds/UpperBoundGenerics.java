@@ -1,4 +1,4 @@
-package Generics;
+package Generics.bounds;
 
 /**
  * Created by cnkaptan on 4/28/15.

@@ -28,26 +28,39 @@ package Thread.book.Java_Threads_2nd_Edition.chapter_2;/*
  */
 
 
+import java.applet.*;
 import java.awt.*;
 
-public class TimerThread extends Thread {
-	Component comp;	     // Component that need repainting
-	int timediff;	     // Time between repaints of the component
-	boolean shouldRun;   // Set to false to stop thread
+public class AnimateFirst extends Applet {
+	int count, lastcount;
+	Image pictures[];
+	TimerThread timer;
 
-	public TimerThread(Component comp, int timediff) {
-		this.comp = comp;
-		this.timediff = timediff;
-		shouldRun = true;
-		setName("TimerThread(" + timediff + " milliseconds)");
+	public void init() {
+		lastcount = 10; count = 0;
+		pictures = new Image[10];
+		MediaTracker tracker = new MediaTracker(this);
+		for (int a = 0; a < lastcount; a++) {
+			pictures[a] = getImage (
+				getCodeBase(), new Integer(a).toString()+".jpeg");
+			tracker.addImage(pictures[a], 0);
+		}
+		tracker.checkAll(true);
 	}
 
-	public void run() {
-		while (shouldRun) {
-			try {
-				comp.repaint();
-				sleep(timediff);
-			} catch (Exception e) {}
-		}
+	public void start() {
+		timer = new TimerThread(this, 1000);
+		timer.start();
+	}
+
+	public void stop() {
+		timer.shouldRun = false;
+		timer = null;
+	}
+
+	public void paint(Graphics g) {
+		g.drawImage(pictures[count++], 0, 0, null);
+
+		if (count == lastcount) count = 0; 
 	}
 }

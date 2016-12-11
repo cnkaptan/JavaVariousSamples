@@ -1,4 +1,4 @@
-package Generics;
+package Generics.bounds;
 
 import java.util.ArrayList;
 import java.util.Collection;

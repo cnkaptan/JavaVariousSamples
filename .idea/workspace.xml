@@ -2,23 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05a5fb8c-6aea-4e1d-b5cd-700389d49207" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassLoadingAndReflection/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Enums/PrimaryColor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Slot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/OurApplet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/OurClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TimerThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect1/IncRace.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect1/IncThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/PrintStateTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/SleepTerminateRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/ThreadStateTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/VariousTopics/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/lec04-thread-safety.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/lec04-thread-safety.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/bounds/UpperAndLowerBounds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/bounds/shapes/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/bounds/shapes/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/bounds/shapes/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/bounds/shapes/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/CurrentThreadSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateFirst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateSecond.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateThird.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AsyncReadSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/IsciRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TestRead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/Account.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/AsyncReadSocket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/RunnerSmlAsyncRead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThreadSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterUserThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/CorrectLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/Line.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/MutableLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/MutablePoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/line/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTestTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeUserThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/SyncIncRace.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/SyncIncThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/TestRace.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Generics/UpperBoundGenerics.java" afterPath="$PROJECT_DIR$/src/Generics/bounds/UpperBoundGenerics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Generics/WildTypeSample.java" afterPath="$PROJECT_DIR$/src/Generics/bounds/WildTypeSample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariousTopics.iml" afterPath="$PROJECT_DIR$/VariousTopics.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/JoinSample.java" afterPath="$PROJECT_DIR$/src/Thread/JoinSample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TimerThread.java" afterPath="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TimerThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java" afterPath="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java" />
     </list>
     <ignored path="VariousTopics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,6 +61,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClassPatternConfiguration">
+    <testPatterns>
+      <classPattern testedClass="$CLASS$" testClass="test/$CLASS$Test" />
+    </testPatterns>
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/VariousTopics$Planet.coverage" NAME="Planet Coverage Results" MODIFIED="1476346507025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -45,22 +81,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrintStateTester.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/PrintStateTester.java">
+      <file leaf-file-name="UpperAndLowerBounds.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Generics/bounds/UpperAndLowerBounds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadStateTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/ThreadStateTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="428">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,6 +99,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -86,35 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DefaultInterface/MyIf.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionHandling/Exc2.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionHandling/ThrowDemo.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionHandling/ThrowsDemo.java" />
-        <option value="$PROJECT_DIR$/src/Lambda/Ex1.java" />
-        <option value="$PROJECT_DIR$/src/Thread/ExtendThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/Priority.java" />
-        <option value="$PROJECT_DIR$/src/Thread/TickTock.java" />
-        <option value="$PROJECT_DIR$/src/Deneme/Split.java" />
-        <option value="$PROJECT_DIR$/src/Thread/CountingThreads.java" />
-        <option value="$PROJECT_DIR$/src/Thread/JoinDemo.java" />
-        <option value="$PROJECT_DIR$/src/Thread/CounterTest.java" />
-        <option value="$PROJECT_DIR$/src/Thread/CheckingAccount.java" />
-        <option value="$PROJECT_DIR$/src/Generics/TypeSafety.java" />
-        <option value="$PROJECT_DIR$/src/Generics/Queue.java" />
-        <option value="$PROJECT_DIR$/src/Generics/UpperBoundGenerics.java" />
-        <option value="$PROJECT_DIR$/src/Thread/HelloThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/CreatingThread.java" />
-        <option value="$PROJECT_DIR$/src/Thread/KarisikSayma.java" />
-        <option value="$PROJECT_DIR$/src/Thread/JoinThreads.java" />
-        <option value="$PROJECT_DIR$/src/Thread/SleepSample.java" />
-        <option value="$PROJECT_DIR$/src/Thread/JoinSample.java" />
-        <option value="$PROJECT_DIR$/src/Thread/Sync.java" />
-        <option value="$PROJECT_DIR$/src/Thread/BasicSync.java" />
-        <option value="$PROJECT_DIR$/src/Thread/ThreadAndRunnable.java" />
-        <option value="$PROJECT_DIR$/src/Generics/GenericMethodSample.java" />
-        <option value="$PROJECT_DIR$/src/Enum/Day.java" />
-        <option value="$PROJECT_DIR$/src/Enum/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/Enum/Planet.java" />
         <option value="$PROJECT_DIR$/src/Thread/ThreadLesson.java" />
         <option value="$PROJECT_DIR$/src/Thread/ThreadLesson2.java" />
@@ -126,19 +126,89 @@
         <option value="$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/hash_map_sample/HashMapSample.java" />
         <option value="$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/RegexSample.java" />
         <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/OurClass.java" />
-        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TimerThread.java" />
         <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/OurApplet.java" />
         <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect1/IncRace.java" />
         <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect1/IncThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/PrintStateTester.java" />
+        <option value="$PROJECT_DIR$/src/Thread/JoinSample.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/IsciRunnable.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateFirst.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/Animate.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TimerThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateSecond.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/NewAnimate.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AnimateThird.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/AsyncReadSocket.java" />
+        <option value="$PROJECT_DIR$/src/Thread/CurrentThreadSample.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/ThreadEnumerateSample.java" />
         <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunnable.java" />
         <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/ThreadStateTester.java" />
-        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/PrintStateTester.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunner.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounter.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/TestRaceTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTestTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/bounded_counter/BoundedCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/BoundedCounterThreadSafeTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/thread_safety/TestRace.java" />
+        <option value="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4/IncThreadSample.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/RunnerSmlAsyncRead.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/AsyncReadSocket.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/Account.java" />
+        <option value="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag2.java" />
+        <option value="$PROJECT_DIR$/src/Generics/bounds/UpperBoundGenerics.java" />
+        <option value="$PROJECT_DIR$/src/Generics/bounds/WildTypeSample.java" />
+        <option value="$PROJECT_DIR$/src/Generics/bounds/shapes/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Generics/bounds/shapes/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Generics/bounds/shapes/Square.java" />
+        <option value="$PROJECT_DIR$/src/Generics/bounds/shapes/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Generics/bounds/UpperAndLowerBounds.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JUnitClassTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Class.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Class.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitMethodTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Method.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Method.java" />
+          <item index="1" class="java.lang.String" itemvalue="Test Method throws Exception.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitTestConfiguration">
+    <option name="IS_AUTO_TEST_CLASS_RENAME_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_MOVE_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_REFACTORING_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_METHODS_RENAME_ENABLED" value="true" />
+    <option name="IS_UNTESTED_METHOD_ICON_ENABLED" value="true" />
+    <option name="IS_GET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_SET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_UNIT_TEST_ENABLED" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -168,14 +238,7 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -192,6 +255,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JavaVariousSamples">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JavaVariousSamples">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,12 +292,6 @@
               <option name="myItemId" value="VariousTopics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VariousTopics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaVariousSamples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -223,8 +310,22 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
+              <option name="myItemId" value="VariousTopics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaVariousSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Generics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,23 +343,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
+              <option name="myItemId" value="Generics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="university" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="maryland" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Programming_Language_Technologies_and_Paradigms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lect2" />
+              <option name="myItemId" value="bounds" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -276,45 +365,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
+              <option name="myItemId" value="Generics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="university" />
+              <option name="myItemId" value="bounds" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="maryland" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Programming_Language_Technologies_and_Paradigms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lect1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VariousTopics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaVariousSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="shapes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,92 +394,118 @@
     <property name="PluginDummyText.Genre" value="scifi" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="FullScreen" value="true" />
     <property name="last.edited.regexp" value="abc" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect4.thread_safety" />
+      <recent name="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3" />
+      <recent name="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect4" />
       <recent name="$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2" />
+      <recent name="$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2" />
       <recent name="$PROJECT_DIR$/src/RegularExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintStateTester">
-    <configuration default="false" name="HashMapSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Collections.mooc_helsinki_fi.hash_map_sample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Collections.mooc_helsinki_fi.hash_map_sample.HashMapSample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="VariousTopics" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="RegexSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="RegularExpressions.mooc_helsinki_fi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="RegularExpressions.mooc_helsinki_fi.RegexSample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="VariousTopics" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="OurApplet" type="Applet" factoryName="Applet" temporary="true">
-      <option name="WIDTH" value="400" />
-      <option name="MAIN_CLASS_NAME" value="Thread.book.Java_Threads_2nd_Edition.chapter_2.OurApplet" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="VariousTopics" />
-      <method />
-    </configuration>
-    <configuration default="false" name="IncRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect1.IncRace" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="VariousTopics" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PrintStateTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RunnerSmlAsyncRead">
+    <configuration default="false" name="HelloWorldRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.PrintStateTester" />
+      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.HelloWorldRunner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VariousTopics" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ThreadStateTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.ThreadStateTester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VariousTopics" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TerminateTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect2.TerminateTester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VariousTopics" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="IncThreadSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Thread.university.maryland.Programming_Language_Technologies_and_Paradigms.lect4.IncThreadSample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VariousTopics" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RunnerSmlAsyncRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Thread.book.Java_Threads_2nd_Edition.chapter_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Thread.book.Java_Threads_2nd_Edition.chapter_3.RunnerSmlAsyncRead" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -432,19 +522,20 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="DEBUGGER_TYPE" value="Java" />
@@ -452,14 +543,15 @@
       <option name="PREFERRED_AVD" value="" />
       <Java />
       <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
         <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method>
-        <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
@@ -480,7 +572,11 @@
       <option name="PREFERRED_AVD" value="" />
       <Java />
       <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
         <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
       <method>
         <option name="Make" enabled="true" />
@@ -509,6 +605,136 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -525,6 +751,16 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -537,27 +773,6 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -586,6 +801,15 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
@@ -621,6 +845,12 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -649,50 +879,71 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
       <envs />
-      <properties />
-      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HashMapSample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RegexSample" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.OurApplet" />
-      <item index="3" class="java.lang.String" itemvalue="Application.IncRace" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PrintStateTester" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorldRunner" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreadStateTester" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TerminateTester" />
+      <item index="3" class="java.lang.String" itemvalue="Application.IncThreadSample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RunnerSmlAsyncRead" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PrintStateTester" />
-        <item index="1" class="java.lang.String" itemvalue="Application.IncRace" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.OurApplet" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RegexSample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HashMapSample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RunnerSmlAsyncRead" />
+        <item index="1" class="java.lang.String" itemvalue="Application.IncThreadSample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldRunner" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TerminateTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreadStateTester" />
       </list>
     </recent_temporary>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -713,11 +964,18 @@
       <workItem from="1431071486978" duration="4287000" />
       <workItem from="1432029934152" duration="128000" />
       <workItem from="1432030297058" duration="5702000" />
+      <workItem from="1478279856204" duration="482000" />
+      <workItem from="1478358560944" duration="9000" />
+      <workItem from="1478358580628" duration="68000" />
+      <workItem from="1478368332168" duration="3498000" />
+      <workItem from="1478831110835" duration="14000" />
+      <workItem from="1479839787356" duration="758000" />
+      <workItem from="1481489840767" duration="513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21138000" />
+    <option name="totallyTimeSpent" value="26480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -725,34 +983,41 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38363892" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25180724" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25180724" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3313253" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25822604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26108727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34096387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34096387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UML Diagrams" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -785,7 +1050,27 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/SmlAsyncRead.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/RunnerSmlAsyncRead.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -794,363 +1079,198 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
-    <entry file="file://$PROJECT_DIR$/src/Thread/CreatingThread.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/CounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/InterruptedException.java" />
-    <entry file="file://$PROJECT_DIR$/src/Thread/KarisikSayma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/CheckingAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VariousTopics.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/JoinSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/Sync.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadAndRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Generics/UpperBoundGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Generics/GenericMethodSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Enum/Day.java" />
-    <entry file="file://$PROJECT_DIR$/src/Enum/Planet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Enum/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/BasicSync.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/SleepSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadLesson.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="540">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3075">
-          <caret line="247" column="7" selection-start-line="247" selection-start-column="7" selection-end-line="247" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1830">
-          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="1193" column="37" selection-start-line="1193" selection-start-column="37" selection-end-line="1193" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="155" column="9" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+        <state relative-caret-position="450">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadLesson2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/HashMapSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="93" selection-start-line="18" selection-start-column="93" selection-end-line="18" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collections/mooc_helsinki_fi/hash_map_sample/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-            <element signature="e#1095#1096#0" expanded="false" />
-            <element signature="e#1159#1160#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RegularExpressions.java" />
-    <entry file="file://$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/hash_map_sample/Library.java" />
-    <entry file="file://$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/hash_map_sample/Book.java" />
-    <entry file="file://$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/hash_map_sample/HashMapSample.java" />
-    <entry file="file://$PROJECT_DIR$/src/RegularExpressions/mooc_helsinki_fi/RegexSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="196" column="49" selection-start-line="196" selection-start-column="49" selection-end-line="196" selection-end-column="49" />
-          <folding>
-            <element signature="e#6858#6859#0" expanded="false" />
-            <element signature="e#6925#6926#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-          <folding>
-            <element signature="e#19296#19297#0" expanded="false" />
-            <element signature="e#19379#19380#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadLesson3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="95" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/TimerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/applet/AppletStub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/applet/Applet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/OurClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_2/OurApplet.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect1/IncRace.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect1/IncThread.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="540">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldThread.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunnable.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generics/bounds/shapes/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/HelloWorldRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/Generics/bounds/shapes/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/SleepTerminateRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/TerminateTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Generics/bounds/shapes/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generics/bounds/UpperBoundGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/ThreadStateTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/book/Java_Threads_2nd_Edition/chapter_3/BusyFlag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="15">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/university/maryland/Programming_Language_Technologies_and_Paradigms/lect2/PrintStateTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Generics/bounds/WildTypeSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="105">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generics/bounds/shapes/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generics/bounds/UpperAndLowerBounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

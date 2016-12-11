@@ -28,26 +28,27 @@ package Thread.book.Java_Threads_2nd_Edition.chapter_2;/*
  */
 
 
-import java.awt.*;
+public class AsyncReadSocket extends Thread {
+	StringBuffer result;
 
-public class TimerThread extends Thread {
-	Component comp;	     // Component that need repainting
-	int timediff;	     // Time between repaints of the component
-	boolean shouldRun;   // Set to false to stop thread
-
-	public TimerThread(Component comp, int timediff) {
-		this.comp = comp;
-		this.timediff = timediff;
-		shouldRun = true;
-		setName("TimerThread(" + timediff + " milliseconds)");
+	public AsyncReadSocket(String host, int port) {
+		// Open a socket to the given host
 	}
 
 	public void run() {
-		while (shouldRun) {
-			try {
-				comp.repaint();
-				sleep(timediff);
-			} catch (Exception e) {}
+		// Read data from a socket into the result string buffer
+	}
+
+	// Get the string already read from the socket so far.
+	// Only allows "Reader" threads to execute this method
+	public String getResult() {
+		String reader = Thread.currentThread().getName();
+		if (reader.startsWith("Reader")) {
+			String retval = result.toString();
+			result = new StringBuffer();
+			return retval;
+		} else {
+			return "";
 		}
 	}
 }
